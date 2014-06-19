@@ -1,6 +1,6 @@
 name   'treydock-cmake'
 author 'treydock'
-version '0.0.1'
+version '0.0.2'
 license 'Apache License, Version 2.0'
 summary 'A Puppet module that installs cmake.'
 description 'A Puppet module that installs cmake.'
